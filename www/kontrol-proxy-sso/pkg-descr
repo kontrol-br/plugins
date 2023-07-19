@@ -1,0 +1,2 @@
+Implements Kerberos and NTLM authentication
+(depends on custom kernel - NIS enabled - for Winbind install - SAMBA 416)
