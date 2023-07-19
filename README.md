@@ -114,6 +114,7 @@ www/c-icap -- c-icap connects the web proxy with a virus scanner
 www/cache -- Webserver cache
 www/nginx -- Nginx HTTP server and reverse proxy
 www/web-proxy-sso -- Kerberos authentication module
+www/kontrol-proxy-sso -- Kerberos & NTLM authentication
 ```
 
 A brief description of how to use the plugins repository
